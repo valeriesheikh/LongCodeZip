@@ -3,3 +3,4 @@ name = "longcodezip"
 version = "0.1.0"
 description = "LongCodeZip: Compress Long Context for Code Language Models [ASE2025]"
 requires-python = ">=3.10"
+# guard against empty input
